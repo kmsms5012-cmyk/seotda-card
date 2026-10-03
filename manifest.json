@@ -1,0 +1,122 @@
+[
+  {
+    "code": "01B",
+    "label": "1월 띠패",
+    "image": "images/01B.png",
+    "url": "card/01B/"
+  },
+  {
+    "code": "01A",
+    "label": "1광",
+    "image": "images/01A.png",
+    "url": "card/01A/"
+  },
+  {
+    "code": "02B",
+    "label": "2월 띠패",
+    "image": "images/02B.png",
+    "url": "card/02B/"
+  },
+  {
+    "code": "02A",
+    "label": "2월 열끗",
+    "image": "images/02A.png",
+    "url": "card/02A/"
+  },
+  {
+    "code": "03B",
+    "label": "3월 띠패",
+    "image": "images/03B.png",
+    "url": "card/03B/"
+  },
+  {
+    "code": "03A",
+    "label": "3광",
+    "image": "images/03A.png",
+    "url": "card/03A/"
+  },
+  {
+    "code": "04B",
+    "label": "4월 띠패",
+    "image": "images/04B.png",
+    "url": "card/04B/"
+  },
+  {
+    "code": "04A",
+    "label": "4월 열끗",
+    "image": "images/04A.png",
+    "url": "card/04A/"
+  },
+  {
+    "code": "05B",
+    "label": "5월 띠패",
+    "image": "images/05B.png",
+    "url": "card/05B/"
+  },
+  {
+    "code": "05A",
+    "label": "5월 열끗",
+    "image": "images/05A.png",
+    "url": "card/05A/"
+  },
+  {
+    "code": "06B",
+    "label": "6월 띠패",
+    "image": "images/06B.png",
+    "url": "card/06B/"
+  },
+  {
+    "code": "06A",
+    "label": "6월 열끗",
+    "image": "images/06A.png",
+    "url": "card/06A/"
+  },
+  {
+    "code": "07B",
+    "label": "7월 띠패",
+    "image": "images/07B.png",
+    "url": "card/07B/"
+  },
+  {
+    "code": "07A",
+    "label": "7월 열끗",
+    "image": "images/07A.png",
+    "url": "card/07A/"
+  },
+  {
+    "code": "08B",
+    "label": "8월 열끗",
+    "image": "images/08B.png",
+    "url": "card/08B/"
+  },
+  {
+    "code": "08A",
+    "label": "8광",
+    "image": "images/08A.png",
+    "url": "card/08A/"
+  },
+  {
+    "code": "09B",
+    "label": "9월 띠패",
+    "image": "images/09B.png",
+    "url": "card/09B/"
+  },
+  {
+    "code": "09A",
+    "label": "9월 열끗",
+    "image": "images/09A.png",
+    "url": "card/09A/"
+  },
+  {
+    "code": "10B",
+    "label": "10월 띠패",
+    "image": "images/10B.png",
+    "url": "card/10B/"
+  },
+  {
+    "code": "10A",
+    "label": "10월 열끗",
+    "image": "images/10A.png",
+    "url": "card/10A/"
+  }
+]
